@@ -91,6 +91,7 @@ footer {
   /* debug */
   height: 300px;
   background: white;
+  padding:10px;
 }
 
 .colonna2 {
@@ -110,7 +111,7 @@ footer {
   width:19%;
   /* padding: 10px; */
     /* debug */
-  height: 300px;
+  /* height: 300px; */
 }
 
 /* colonna 3 suddivisione in sottoblocchi*/
