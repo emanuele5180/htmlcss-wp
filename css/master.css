@@ -100,8 +100,9 @@ footer {
   margin-right: 1%;
   padding: 10px;
   /* debug */
-  height:500px;
+  /* height:500px; */
   background-color: white;
+  border-radius: 2%;
 }
 
 .colonna3 {
@@ -131,6 +132,17 @@ footer {
 }
 
 .seconda-sezione {
+  float: right;
+  width: 100%;
+  margin-bottom: 3%;
+  /* debug */
+  /* height: 150px; */
+  background-color: white;
+  padding: 10px;
+  border-radius: 2%;
+}
+
+.terza-sezione {
   float: right;
   width: 100%;
   margin-bottom: 3%;
